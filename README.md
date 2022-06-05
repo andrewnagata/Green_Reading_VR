@@ -15,6 +15,6 @@ The process would go something like this: Scan a green. Import and clean the mod
 
 ## Tech
 
-- [Unity] - Custom shaders and VR control in Unity
+- [Unity 2020.3.26f1] - Custom shaders and VR control in Unity
 - [Polyscan] - Lidar mapping using iOS devices
 - [Blender] - Cleaning and processing model to work in Unity
